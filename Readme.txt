@@ -6,3 +6,5 @@ also git checkout -b <name> equals to git switch -c <name>
 Add on feature1"Creating a new branch is quick AND simple."
 
 No fast forward
+
+For git Fix Bug
